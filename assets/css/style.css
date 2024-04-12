@@ -1,0 +1,35 @@
+h1{
+    font-family: shadepro;
+    
+}
+
+#secao-header {
+    display: inline;
+
+}
+
+.imagem {
+    float:right;
+}
+
+header{
+    height:100vh;
+}
+
+.links{
+    margin-right: 50px;
+}
+
+.link{
+    text-decoration: none;
+    color: #000;
+    font-size: 40px;
+}
+
+.link-roxo{
+    background-color: #473BF0;
+    color:#FFFFFF;
+}
+
+
+
